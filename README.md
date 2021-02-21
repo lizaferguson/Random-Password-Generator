@@ -12,7 +12,7 @@ To access codebase,
 
 ## Usage
 This webpage is a password generator and can be accessed in your browser at the url https://lizaferguson.github.io/Random-Password-Generator/. The following image shows the web application's appearance and functionality:
-![The Password Generator application displays a red button to "Generate Password".](./assets/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/images/03-javascript-homework-demo.png)
 
 ## Credits
 The orginal codebase can be found at https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/unc-ral-virt-fsf-pt-01-2021-u-c/tree/master
